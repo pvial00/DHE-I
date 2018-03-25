@@ -1,4 +1,4 @@
-from DHEMan import DHE
+from DHE-I import DHE
 import sys
 
 try:

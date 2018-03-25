@@ -4,7 +4,8 @@ DHE-I is an copy/pastable, interactive implementation of DiffieHellman.
 *** Educational use only
 
 # Requirements
-pycrypto
+pycrypto  
+pycube256
 
 # Usage:
 
